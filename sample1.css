@@ -190,6 +190,37 @@
 
 }
 
+.copyright {
+    font-family: Poppins;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.copyright span {
+    color: gray;
+    font-size: 12px;
+    
+}
+
+.footer {
+    display: flex;
+    background-color: #12222d;
+    justify-content: center;
+    font-family: Poppins;
+    height: 50px;
+}
+
+.footer p {
+    margin-top: 15px;
+    color: gray;
+    font-size: 12px;
+    
+}
+
+.footer span {
+    color: white;
+}
+
 /* Extra small devices (portrait phones, less than 576px) */
 
 @media (max-width: 576px) {
